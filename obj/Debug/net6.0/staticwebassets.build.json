@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GL52ThMJ6tHqy03EjeWpldgZ3imWv/YFZDgs8nYFO5w=",
+  "Source": "EmailSendTask",
+  "BasePath": "_content/EmailSendTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

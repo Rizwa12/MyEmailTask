@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce237c0b-cfc4-418e-a95e-b877c1fe83aa": {
+      "ProjectGuid": "ce237c0b-cfc4-418e-a95e-b877c1fe83aa",
+      "DisplayName": "EmailSendTask",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
